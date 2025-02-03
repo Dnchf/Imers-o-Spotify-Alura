@@ -1,6 +1,6 @@
 <h1 align="center"> 🎶 Imerção Spotify Alura 🎶  <img src="https://github.com/user-attachments/assets/0d2cfa81-8cc3-44a1-8798-528a48cffc68" alt="spotify" width="80"
 > </h1>
-<p aling="center">Nesse projeto Front-end com a ajuda da Imersão da Alura era criar a página inicial do Spotify, onde ensinaram a utilizar HTML, JAVA e CSS para moldar, estilizar e configurar a sua página inicial. </p>
+<p aling="center">Nesse projeto Front-end com a ajuda da Imersão da Alura o objetivo criar a página inicial do Spotify, onde ensinaram a utilizar HTML, JAVA e CSS para moldar, estilizar e configurar a sua página inicial. </p>
 
 <h1 aling='center'>Algumas das Tecnologias usadas </h1>
 <img src="https://github.com/user-attachments/assets/cdad8ff2-cc6c-408b-96c3-997875fd5688"
